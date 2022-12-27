@@ -7,7 +7,7 @@ internal class Program
         // Kategori
         clsCategory clsCategory= new clsCategory();
 
-        clsCategory.CatID = 1;
+        clsCategory.CatID = 2;
         clsCategory.CatName = "Çorbalar";
 
         Console.WriteLine("Kategori Listesi");
